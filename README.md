@@ -9,5 +9,5 @@
 
 - I like to build things and solve problems, so feel free to reach out if you have similar interests or would like to collaborate. 
   
-![](https://img.shields.io/github/stars/0xjepsen?style=social)
-![](https://visitor-badge.laobi.icu/badge?page_id=0xjepsen)
+![](https://img.shields.io/github/stars/JMarOve?style=social)
+![](https://visitor-badge.laobi.icu/badge?page_id=JMarOve)
