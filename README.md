@@ -11,3 +11,10 @@
   
 ![](https://img.shields.io/github/stars/JMarOve?style=social)
 ![](https://visitor-badge.laobi.icu/badge?page_id=JMarOve)
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMarOve&show_icons=true&theme=github_dark )
+
+
+
+#
